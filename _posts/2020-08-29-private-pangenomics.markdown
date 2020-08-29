@@ -9,7 +9,7 @@ keywords: differential privacy, variation graphs, graphs
 description: An opening post describing the project and its objectives.
 ---
 
-A work in progress.
+A work in progress. TODO.
 
 Outline:
 
