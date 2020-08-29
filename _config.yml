@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The privvg project is building tools to create synthetic, privacy-preserving graph
   databases for pangenomes, location trajectories, texts, and other sparse data.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://privvg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Erik Garrison
 #twitter_username: jekyllrb
 #github_username:  jekyll
