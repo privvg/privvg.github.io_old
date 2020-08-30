@@ -2,7 +2,6 @@
 layout: post
 title:  "Private pangenomics"
 date:   2020-08-29 16:53:23 +0200
-categories: post
 author: Erik Garrison
 tags: post
 keywords: differential privacy, variation graphs, graphs
