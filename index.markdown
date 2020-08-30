@@ -31,7 +31,7 @@ However, it can be [difficult to share genomic information due to issues of priv
 Researchers have deeply explored techniques to produce [differentially-private summarizations of some genomic information, such as SNPs and other small variants](https://doi.org/10.1038/nrg3723), but thus far no methods approach the question of differential privacy of arbitrary genome sequence and assemblies.
 As variation graphs are becoming a standard for the representation of pangenomes, which new sequencing technology is allowing us to rapidly accumulate for [humans](https://humanpangenome.org/) and other species, they are an ideal target for the application of privacy-preserving data release.
 
-## Differentially-private mobility graphs
+## Differentially-private mobility data
 
 Location data can be represented in a variation graph by encoding quantized location/times in nodes, and expressing individual movements as paths through these nodes.
 Just as a differentially-private variation graph can help us understand common haplotypes tracing through the graph, a differentially-private model of collective mobility information can help us to understand common flows of people through space and time.
