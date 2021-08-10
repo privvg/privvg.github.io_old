@@ -1,0 +1,12 @@
+= Private pangenomics
+Erik Garrison
+2020-08-29 16:53:23 +0200
+:keywords: differential privacy, variation graphs, graphs
+
+A work in progress. TODO. And so on. And on.
+
+Outline:
+
+* recap of problem
+* projection into histogram-like space
+* lessons from graph patterns with differential privacy
